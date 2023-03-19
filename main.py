@@ -3,7 +3,10 @@
 # print(contents)
 # file.close()
 
-with open("C:/Users/yasow/Desktop/myfile.txt") as file:
+
+
+
+with open("../../../../../../Desktop/myfile.txt") as file:
     contents = file.read()
     print(contents)
 
